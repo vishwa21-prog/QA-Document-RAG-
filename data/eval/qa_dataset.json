@@ -1,0 +1,23 @@
+[
+  {
+    "question": "What is the termination notice period specified in the contract?",
+    "gold_pages": [3],
+    "notes": "Replace this placeholder with a real question/answer pair from your own ingested PDF once you've run ingestion. gold_pages should list the page number(s) in the source PDF where the answer actually appears."
+  },
+  {
+    "question": "Who are the parties named in the agreement?",
+    "gold_pages": [1]
+  },
+  {
+    "question": "What is the total contract value?",
+    "gold_pages": [2]
+  },
+  {
+    "question": "What governing law applies to this document?",
+    "gold_pages": [5]
+  },
+  {
+    "question": "Is there a confidentiality clause, and what does it cover?",
+    "gold_pages": [4]
+  }
+]
